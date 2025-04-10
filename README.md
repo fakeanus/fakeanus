@@ -1,9 +1,7 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="ебал ханзо!" src="https://www.youtube.com/watch?v=DdVxKVBlMfY"></div>
+<div align="center" ><img width="100%" alt="привет" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUM0LvQuNC60YDQvtC7"></div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=E6E6FA&size=30&center=true&vCenter=true&width=450&lines= zz;ebal;tebya;bich;:3;^_6;)))" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
-</div>
+
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
